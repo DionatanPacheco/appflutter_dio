@@ -1,2 +1,3 @@
 # appflutter_dio
-Projeto para desafio aula do BootCamp Santander Dio
+
+Projeto para o Desafio do BootCamp do Santander em parceria com a Dio
